@@ -5,10 +5,12 @@
   <a href="https://www.youtube.com/@pastelabyss">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=pastelabyss&style=flat-square&color=blue" alt=""/>
   <a href="https://twitter.com/PastelAbyssYT">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+</div>
+<div id="count" align="center">
+  <img src="https://komarev.com/ghpvc/?username=pastelabyss&style=flat-square&color=blue" alt=""/>
 </div>
 
 

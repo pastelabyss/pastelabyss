@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.youtube.com/@pastelabyss">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=pastelabyss&style=flat-square&color=blue" alt=""/>
 </div>
 

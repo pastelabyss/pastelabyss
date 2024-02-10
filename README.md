@@ -1,30 +1,33 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.youtube.com/@pastelabyss">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=pastelabyss&style=flat-square&color=blue" alt=""/>
   <a href="https://twitter.com/PastelAbyssYT">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=pastelabyss&style=flat-square&color=blue" alt=""/>
+
 
 <h1>
-  Hi there
+  Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
 ### :man_technologist: About Me: I am an IT Student in the California Bay Area
 - :telescope: I'm currently working towards a degree in Enterprise Networking from Foothill College
 - :seedling: Exploring Kubernetes and Terraform
 - :zap: In my free time, I play with my Homelab, fix computers, play video games, and learn more about Operating Systems.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools:

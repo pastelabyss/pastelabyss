@@ -19,7 +19,6 @@
 
 ### 🧑‍💻 About Me: I am a Computer Science Student in the California Bay Area
 - :telescope: I'm currently working towards a degree in Computer Science from Foothill College
-- 💁 Trans Girl
 - :seedling: Exploring Kubernetes, System Hardening, and Terraform
 - :zap: In my free time, I play with my Homelab, fix computers, play video games, and learn more about Operating Systems.
 
